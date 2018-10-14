@@ -1,0 +1,7 @@
+C:\My Files\UNI\fifth Semester\Application development in C # - mk120\Class Projects\Chess\Chess\bin\Debug\Chess.exe.config
+C:\My Files\UNI\fifth Semester\Application development in C # - mk120\Class Projects\Chess\Chess\bin\Debug\Chess.exe
+C:\My Files\UNI\fifth Semester\Application development in C # - mk120\Class Projects\Chess\Chess\bin\Debug\Chess.pdb
+C:\My Files\UNI\fifth Semester\Application development in C # - mk120\Class Projects\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\My Files\UNI\fifth Semester\Application development in C # - mk120\Class Projects\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\My Files\UNI\fifth Semester\Application development in C # - mk120\Class Projects\Chess\Chess\obj\Debug\Chess.exe
+C:\My Files\UNI\fifth Semester\Application development in C # - mk120\Class Projects\Chess\Chess\obj\Debug\Chess.pdb
